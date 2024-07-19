@@ -4,7 +4,7 @@ import Abot from '../components/About'
 export default function page() {
   return (
     <div>
-    <Abot/>
+    <About/>
     </div>
   )
 }
