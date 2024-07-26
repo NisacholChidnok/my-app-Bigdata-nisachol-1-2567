@@ -1,10 +1,10 @@
 import React from 'react'
-import About from '../components/About'
+import ChatGPT from '../components/ChatGPT'
 
 export default function page() {
   return (
     <div>
-    <About/>
+      <ChatGPT/>
     </div>
   )
 }
